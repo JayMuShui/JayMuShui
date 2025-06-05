@@ -63,4 +63,8 @@
   <img src="https://cloudflare-imgbed-telegraph.pages.dev/file/1743088515621_Ajitani%20Hifumi.webp" alt="日富美" width="120"/>
 </p>
 
+#### 
+<p align="right">
+    <img width="100" src="https://cloudflare-imgbed-telegraph.pages.dev/file/MuLogo_v3.webp"/> 
+</p>
 
