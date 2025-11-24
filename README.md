@@ -1,33 +1,20 @@
 ## Here is [JayMuShui | 沐云听渝 or 沐](https://jaymushui.github.io)
 
 
-<img align="right" width="200" src="https://q.qlogo.cn/g?b=qq&nk=1215372633&s=640">
+<img align="right" width="200" src="assets\image\meme\Arknights-WSXY-Love.png">
 
 
-```markdown
 
-- 世界は大きな宝石箱みたいなんだ
 
-> 世界就像是个巨大的宝石箱
-> The world is like a huge treasure chest
-```
-
-```markdown
-- 中には輝く宝石がいっぱい詰まってる
-
-> 里面塞满了熠熠生辉的宝石
-> Filled to the brim with shining gems.
-```
-  > [**星空鉄道とシロの旅** | *星空列车与白的旅行* | *Hoshizora Tetsudou to Shiro no Tabi* ](http://shiratamaco.com/)
-
----
 
 ```ts
+/* TypeScript*/
 const Mu = Object(Symbol()); 
 Mu.self = 'boundary'; 
 
 // I am Mu, with a unique Symbol identifier
 // My self property is to maintain appropriate boundaries with others
+
 ```
 ---
 
@@ -35,6 +22,24 @@ Mu.self = 'boundary';
 
 > [**『CLANNAD』一ノ瀬 ことみのテーマを化用して己が題とした**](https://ja.wikipedia.org/wiki/CLANNAD_(%E3%82%B2%E3%83%BC%E3%83%A0)) | [*化用自《CLANNAD》一之濑 琴美的主题曲而为己所题*](https://baike.baidu.com/item/CLANNAD) | [*Adapted from Kotomi Ichinose's Theme in CLANNAD*](https://en.wikipedia.org/wiki/CLANNAD)
 ---
+
+```markdown
+
+- 世界は大きな宝石箱みたいなんだ
+
+> 世界就像是个巨大的宝石箱
+> The world is like a huge treasure chest
+
+- 中には輝く宝石がいっぱい詰まってる
+
+> 里面塞满了熠熠生辉的宝石
+> Filled to the brim with shining gems.
+```
+> [**星空鉄道とシロの旅** | *星空列车与白的旅行* | *Hoshizora Tetsudou to Shiro no Tabi* ](http://shiratamaco.com/)
+
+---
+
+
 
 
 ## 🌱 关于我对于计算机领域相关的内容 / About My Computer-Related Content
@@ -201,19 +206,19 @@ Mu.self = 'boundary';
 
 <div align="center">
 
-![沐迹云途演示效果](assets/image/DAO20251021-Myucloud-Odyssey-Demo.png)
+![沐迹云途演示效果](assets/image/Myucloud-Odyssey-Demo/DAO20251125.png)
 
 </div>
 
 ### 📊 旅行数据统计 / Travel Statistics
 
-自2006年8月22日至2025年10月21日，在中华人民共和国境内：  
-From August 22, 2006, to October 21, 2025, within the People's Republic of China:
+自2006年8月22日至2025年11月25日，在中华人民共和国境内：  
+From August 22, 2006, to November 25, 2025, within the People's Republic of China:
 
-- 🏠 **旅居城市 / Cities Resided**: 32个（含出生地、老家、学校等具有特殊意义的地点）/ 32 cities (including birthplace, hometowns, schools, and other places of special significance)
+- 🏠 **旅居城市 / Cities Resided**: 34个（含出生地、老家、学校等具有特殊意义的地点）/ 34 cities (including birthplace, hometowns, schools, and other places of special significance)
 - 🚶 **途经城市 / Cities Passed Through**: 63个 / 63 cities  
-- 🎯 **已达成 / Cities Reached**: 95 / 333个地级市行政单位 / prefecture-level cities 
-- (达成率 / Completion: **28.53%**)
+- 🎯 **已达成 / Cities Reached**: 97 / 333个地级市行政单位 / prefecture-level cities 
+- (达成率 / Completion: **29.12%**)
 
 ### 📏 地理跨度 / Geographic Span
 
@@ -247,8 +252,38 @@ Whether coding for passion or traveling for curiosity, may they become precious 
 > **Of course, the idea of traveling abroad is also under consideration. The collected GeoJSON materials already include overseas geographic data, and I look forward to leaving more footprints on the world map someday.**
 
 ---
+## 💕 Love 
 
-## 🩷 Suki Waifu / Favorite Characters
+### 💝 弦舟 / Xianzhou
+
+<img align="right" width="200" src="https://q.qlogo.cn/g?b=qq&nk=1215372633&s=640">
+
+```markdown
+
+Here is Mu,To You,Xianzhou:
+
+- 私のこと、覚えていてほしい。こんなふうに生きていた、こんなふうにあなたのそばにいたことを。
+> 「ノルウェーの森」 村上春树
+- 希望你能记住我，记住我这样活过，这样在你身边呆过。
+> 《挪威的森林》 （译由 林少华）
+- I want you to keep me in your memory. Keep in mind that I existed like this, that I was with you like this.
+>  Norwegian Wood （Translated by Philip Gabriel）
+```
+<img align="left" width="200" src="https://q.qlogo.cn/g?b=qq&nk=1075998304&s=640">
+
+```markdown
+Xianzhou,Your Reply to Me,Mu is Here: 
+
+- 君のこと、ずっと覚えてる。こんなふうに生きていた、こんなふうに僕のそばに存在していたことを。
+> 「心にあなたがいて、四季ずっとそばに」 → 弦舟(シェンジョウ)
+- 我会记住你，记住你这样活过，这样在我身边存在着。
+> <在我心上，伴我四季> → 弦舟
+- I’ll keep you in my memory, keep in mind that you lived this way, that you existed right by my side like this.
+> In My Heart You Stay, With Me Through Every Season → Xianzhou
+
+```
+
+### 🩷 Suki Waifu / Favorite Characters
 
 <div align="center">
 
@@ -316,7 +351,6 @@ Whether coding for passion or traveling for curiosity, may they become precious 
 
 ### 📈 基础统计 / Basic Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JayMuShui&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&theme=default&hide_border=false&count_private=true" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JayMuShui&theme=default&hide_border=false" alt="GitHub Streak"/>
 
 ### 💳 详细统计卡片 / Profile Summary Cards
@@ -326,12 +360,6 @@ Whether coding for passion or traveling for curiosity, may they become precious 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayMuShui&theme=default" alt="Stats"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayMuShui&theme=default&utcOffset=8" alt="Productive Time"/>
 
-
-
-### 💻 语言使用统计 / Language Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayMuShui&layout=compact&theme=default&hide_border=false&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayMuShui&layout=donut&theme=default&hide_border=false&langs_count=6" alt="Top Languages Donut"/>
 
 ### 🏆 成就徽章 / Achievements
 
@@ -377,4 +405,4 @@ Whether coding for passion or traveling for curiosity, may they become precious 
 </p>
 
 
-###### 2025-10-21 
+###### 2025-11-25 
