@@ -35,19 +35,19 @@
 
 <div align="center">
 
-![沐迹云途演示效果](assets/image/Myucloud-Odyssey-Demo/DAO20251125.png)
+![沐迹云途演示效果](assets/image/Myucloud-Odyssey-Demo/DAO20260411.png)
 
 </div>
 
 ### 📊 旅行数据统计 / Travel Statistics
 
-自2006年8月22日至2025年11月25日，在中华人民共和国境内：  
-From August 22, 2006, to November 25, 2025, within the People's Republic of China:
+自2006年8月22日至2026年4月11日，在中华人民共和国境内：  
+From August 22, 2006, to April 11, 2026, within the People's Republic of China:
 
-- 🏠 **旅居城市 / Cities Resided**: 34个（含出生地、老家、学校等具有特殊意义的地点）/ 34 cities (including birthplace, hometowns, schools, and other places of special significance)
-- 🚶 **途经城市 / Cities Passed Through**: 63个 / 63 cities  
-- 🎯 **已达成 / Cities Reached**: 97 / 333个地级市行政单位 / prefecture-level cities 
-- (达成率 / Completion: **29.12%**)
+- 🏠 **旅居城市 / Cities Resided**: 35个（含出生地、老家、学校等具有特殊意义的地点）/ 35 cities (including birthplace, hometowns, schools, and other places of special significance)
+- 🚶 **途经城市 / Cities Passed Through**: 79个 / 79 cities  
+- 🎯 **已达成 / Cities Reached**: 114 / 333个地级市行政单位 / prefecture-level cities
+- (达成率 / Completion: **34.23%**)
 
 ### 📏 地理跨度 / Geographic Span
 
